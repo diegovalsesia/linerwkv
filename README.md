@@ -69,3 +69,6 @@ The compressed files are the script variables:
 - $side_info_file_{mu,sigma} : this contains side information about normalizations for decoding
 
 Entropy encoder and decoder are provided as binary files, compiled for Linux x86-64. They are directly called by the compressor.py and decompressor.py files.
+
+## Pretrained models
+Pretrained models for the XS,S,M,L configurations are provided. They were trained on the HyspecNet-11k hard split. Final .pth files are under Results/linerwkv/{xs,s,m,l} while checkpoints and dumps of the config object are under log_dir/linerwkv/{xs,s,m,l}.
