@@ -9,7 +9,7 @@ BibTex reference:
 @article{valsesia2024linerwkv,
   title={Onboard deep lossless and near-lossless predictive coding of hyperspectral images with line-based attention},
   author={Valsesia, Diego and Bianchi, Tiziano and Magli, Enrico},
-  journal={arXiv preprint arXiv:2403.17677},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   year={2024}
 }
 ```
